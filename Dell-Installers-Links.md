@@ -11,22 +11,24 @@ Qui sotto archiviato i link delle altre versioni precedenti, salvate anche nel d
 
 ## Firmware links:
 
-[1.0.1.72](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=k8cr4), A22, 12 lug 2023 Consigliato - REV 050
-[1.0.1.71](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=4hgnh), A21, 08 dic 2022 Consigliato
-[1.0.1.69](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=7jhgm), A20, 19 sep 2022 Urgente
-[1.0.1.68](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=d8ydy), A19, 11 mag 2022 Urgente
-[1.0.1.62](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=28ggf), A14, 21 ott 2021 Consigliato
-[1.0.1.59](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=8707k), A13, 20 mag 2021 Consigliato
-[1.0.1.56](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=yffyp), A12, 09 mar 2021 Consigliato
-[1.0.1.55](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=5152f), A11, 16 dic 2020 Consigliato
-[1.0.1.51](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=gkttt), A10, 09 giu 2020 Consigliato
-[1.0.1.40](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=8v449), A08, 11 set 2019 Consigliato
-[1.0.1.36](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=h024v), A06, 26 giu 2019 Consigliato
-[1.0.1.32](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=mtm38), A05, 26 apr 2019 Consigliato
-[1.0.1.31](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=tp7gx), A04, 26 apr 2019 Consigliato
-[1.0.1.30](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=hy6v9), A03, 25 mar 2019 Consigliato
-[1.0.1.24](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=wxcpm), A02, 14 dic 2018 Consigliato
-[1.0.1.18](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=t2w15), A01, 18 ott 2018 Consigliato
+| EXE Version |                                   Link                                         | Build |    Date     | Description |
+|:-----------:|:------------------------------------------------------------------------------:|:-----:|:-----------:|:-----------:|
+| [1.0.1.72] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=k8cr4) |  A22  | 12 lug 2023 | Consigliato |
+| [1.0.1.71] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=4hgnh) |  A21  | 08 dic 2022 | Consigliato |
+| [1.0.1.69] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=7jhgm) |  A20  | 19 sep 2022 |   Urgente   |
+| [1.0.1.68] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=d8ydy) |  A19  | 11 mag 2022 |   Urgente   |
+| [1.0.1.62] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=28ggf) |  A14  | 21 ott 2021 | Consigliato |
+| [1.0.1.59] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=8707k) |  A13  | 20 mag 2021 | Consigliato |
+| [1.0.1.56] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=yffyp) |  A12  | 09 mar 2021 | Consigliato |
+| [1.0.1.55] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=5152f) |  A11  | 16 dic 2020 | Consigliato |
+| [1.0.1.51] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=gkttt) |  A10  | 09 giu 2020 | Consigliato |
+| [1.0.1.40] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=8v449) |  A08  | 11 set 2019 | Consigliato |
+| [1.0.1.36] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=h024v) |  A06  | 26 giu 2019 | Consigliato |
+| [1.0.1.32] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=mtm38) |  A05  | 26 apr 2019 | Consigliato |
+| [1.0.1.31] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=tp7gx) |  A04  | 26 apr 2019 | Consigliato |
+| [1.0.1.30] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=hy6v9) |  A03  | 25 mar 2019 | Consigliato |
+| [1.0.1.24] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=wxcpm) |  A02  | 14 dic 2018 | Consigliato |
+| [1.0.1.18] | (https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=t2w15) |  A01  | 18 ott 2018 | Consigliato |
 
 ## SHA256SUMS
 
