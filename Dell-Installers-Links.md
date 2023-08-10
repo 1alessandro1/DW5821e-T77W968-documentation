@@ -11,24 +11,24 @@ Qui sotto archiviato i link delle altre versioni precedenti, salvate anche nel d
 
 ## Firmware links:
 
-| EXE Version |                                   Link                                         | Build |    Date     | Description |
-|:-----------:|:------------------------------------------------------------------------------:|:-----:|:-----------:|:-----------:|
-|  1.0.1.72  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=k8cr4  |  A22  | 12 lug 2023 | Consigliato |
-|  1.0.1.71  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=4hgnh  |  A21  | 08 dic 2022 | Consigliato |
-|  1.0.1.69  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=7jhgm  |  A20  | 19 sep 2022 |   Urgente   |
-|  1.0.1.68  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=d8ydy  |  A19  | 11 mag 2022 |   Urgente   |
-|  1.0.1.62  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=28ggf  |  A14  | 21 ott 2021 | Consigliato |
-|  1.0.1.59  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=8707k  |  A13  | 20 mag 2021 | Consigliato |
-|  1.0.1.56  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=yffyp  |  A12  | 09 mar 2021 | Consigliato |
-|  1.0.1.55  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=5152f  |  A11  | 16 dic 2020 | Consigliato |
-|  1.0.1.51  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=gkttt  |  A10  | 09 giu 2020 | Consigliato |
-|  1.0.1.40  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=8v449  |  A08  | 11 set 2019 | Consigliato |
-|  1.0.1.36  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=h024v  |  A06  | 26 giu 2019 | Consigliato |
-|  1.0.1.32  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=mtm38  |  A05  | 26 apr 2019 | Consigliato |
-|  1.0.1.31  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=tp7gx  |  A04  | 26 apr 2019 | Consigliato |
-|  1.0.1.30  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=hy6v9  |  A03  | 25 mar 2019 | Consigliato |
-|  1.0.1.24  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=wxcpm  |  A02  | 14 dic 2018 | Consigliato |
-|  1.0.1.18  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=t2w15  |  A01  | 18 ott 2018 | Consigliato |
+| EXE Version |                                   Link                                         | Build |    Date     | Description |  `AT^VERSION?` |
+|:-----------:|:------------------------------------------------------------------------------:|:-----:|:-----------:|:-----------:|:--------------:|
+|  1.0.1.72  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=k8cr4  |  A22  | 12 lug 2023 | Consigliato |    `REV050`    |
+|  1.0.1.71  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=4hgnh  |  A21  | 08 dic 2022 | Consigliato |    `REV049`    |
+|  1.0.1.69  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=7jhgm  |  A20  | 19 sep 2022 |   Urgente   |    `REV048`    |
+|  1.0.1.68  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=d8ydy  |  A19  | 11 mag 2022 |   Urgente   |    `REVxxx`    |
+|  1.0.1.62  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=28ggf  |  A14  | 21 ott 2021 | Consigliato |    `REVxxx`    |
+|  1.0.1.59  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=8707k  |  A13  | 20 mag 2021 | Consigliato |    `REVxxx`    |
+|  1.0.1.56  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=yffyp  |  A12  | 09 mar 2021 | Consigliato |    `REVxxx`    |
+|  1.0.1.55  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=5152f  |  A11  | 16 dic 2020 | Consigliato |    `REVxxx`    |
+|  1.0.1.51  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=gkttt  |  A10  | 09 giu 2020 | Consigliato |    `REVxxx`    |
+|  1.0.1.40  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=8v449  |  A08  | 11 set 2019 | Consigliato |    `REVxxx`    |
+|  1.0.1.36  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=h024v  |  A06  | 26 giu 2019 | Consigliato |    `REVxxx`    |
+|  1.0.1.32  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=mtm38  |  A05  | 26 apr 2019 | Consigliato |    `REVxxx`    |
+|  1.0.1.31  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=tp7gx  |  A04  | 26 apr 2019 | Consigliato |    `REVxxx`    |
+|  1.0.1.30  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=hy6v9  |  A03  | 25 mar 2019 | Consigliato |    `REVxxx`    |
+|  1.0.1.24  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=wxcpm  |  A02  | 14 dic 2018 | Consigliato |    `REVxxx`    |
+|  1.0.1.18  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=t2w15  |  A01  | 18 ott 2018 | Consigliato |    `REVxxx`    |
 
 ## SHA256SUMS
 
@@ -59,11 +59,13 @@ Cambiare i parametri della query, come:
 - driverid=tp7gx [a seconda della versione che volete trovare sul sito]
 - &oscode= uno di quelli qui sotto, cambiandoli vi potrebbe spuntare ""
 
-&oscode=wt64a [Windows 10, 64 bit]
-&oscode=w2021 [Windows 11]
-&oscode=w10ge
+## Esempio versioni di windows
 
-Esempio URL con `oscode = w10ge` e `driverid=8707k` (spunta il menu "Altre versioni disponibili")
+- &oscode=wt64a [Windows 10, 64 bit]
+- &oscode=w2021 [Windows 11]
+- &oscode=w10ge
+
+Esempio URL con `oscode = w10ge` e `driverid=8707k` (per far spuntare il menu "Altre versioni disponibili")
 
 ```
 https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=8707k&oscode=w10ge&productcode=latitude-14-7400-2-in-1-laptop
@@ -75,9 +77,9 @@ Esempio URL con `oscode = wt64a` e `driverid=tp7gx` (non spunta il menu "Altre v
 https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=tp7gx&oscode=wt64a&productcode=latitude-14-7400-2-in-1-laptop
 ```
 
-Tenuta sotto perché stranamente è chiamata A01, quando A01 ha come driverid=t2w15 in base alla lista sopra (sembra quindi come se facesse parte di un'altra mainline, comunque è bene tenerla giusto in caso)
+Tenuta sotto perché stranamente è chiamata A01, quando A01 ha come `driverid=t2w15` in base alla lista sopra (sembra quindi come se facesse parte di un'altra mainline, comunque è bene tenerla in caso servisse)
 
-[1.0.1.50](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=cmm8t), A01, 06 mag 2020
+- [1.0.1.50](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=cmm8t), A01, 06 mag 2020
 
 # Altre note
 
@@ -101,6 +103,10 @@ Questi sono i modelli compatibili con A14. Non si è ben capito il perché ma no
 - Latitude 9420
 - Latitude 9510
 - Latitude 9520
+- Precision 7540
+- Precision 7550
+- Precision 7740
+- Precision 7750
 
 Addirittura esistono diverse versioni dello stesso firmware (es. `A02`) a seconda del modello del portatile, difatti vedendo la lista dove compaiono tutti, il driverID di `A02` è `wxcpm` mentre esistono versioni come [questa](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=ccckj&oscode=wt64a&productcode=latitude-14-5424-laptop) in cui `A02` ha un ID diverso (`ccckj`).
 
