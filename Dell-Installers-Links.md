@@ -35,6 +35,7 @@ Qui sotto archiviato i link delle altre versioni precedenti, salvate anche nel d
 
 |  EXE Version  |                                   SHA256                                   | Build |
 |:-------------:|:--------------------------------------------------------------------------:|:-----:| 
+|   1.0.1.73    |      8f4c87688ed0c3bfdb1b9ba14522ea9928ff52a3b259ead577739978e68cadc0      |  A23  |
 |   1.0.1.72    |      75e87b9ea3c6f4e3aafd91e3a0d29bb241908c27f31ad2c2b390cec67acb5043      |  A22  |
 |   1.0.1.71    |      42f82fbaef4dc5714254f52ad378fb6eeed15e429f0fd690cb479d180e0c82b4      |  A21  |  
 |   1.0.1.69    |      e79d675f83927687c4848511d788495ebab94d22111887fff672a645e2aa58e5      |  A20  | 
