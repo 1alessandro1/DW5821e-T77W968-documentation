@@ -13,6 +13,7 @@ Qui sotto archiviato i link delle altre versioni precedenti, salvate anche nel d
 
 | EXE Version |                                   Link                                         | Build |    Date     | Description |  `AT^VERSION?` |
 |:-----------:|:------------------------------------------------------------------------------:|:-----:|:-----------:|:-----------:|:--------------:|
+|  1.0.1.73  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=rx8nt  |  A23  | 07 sep 2023 | Consigliato |    `REV051`    |
 |  1.0.1.72  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=k8cr4  |  A22  | 12 lug 2023 | Consigliato |    `REV050`    |
 |  1.0.1.71  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=4hgnh  |  A21  | 08 dic 2022 | Consigliato |    `REV049`    |
 |  1.0.1.69  |  https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=7jhgm  |  A20  | 19 sep 2022 |   Urgente   |    `REV048`    |
