@@ -34,7 +34,7 @@ Impostandola manualmente al valore `Dell Inc.` e premendo enter.
 </details>
 
 Installare il driver è necessario non solo per poter comunicare col modem via MBIM (avere quindi connettività come fosse una chiavetta) ma anche per avere le porte seriali (DIAG+AT+GNSS) disponibili in Device manager. In [questa](https://www.mbhomeserver.it/s/Gk2zRwtw9FB6Y7m?path=%2FModem+%5BMiniPCIE+-+M.2+key+B+NGFF%5D%2FDell%2FDW5821e+%28MDM9660%2C+Snapdragon+X20%29%2F2_Dell+Installers+-+EXE%2FFirmware
-) cartella, sono state collezionate nel tempo tutte le versioni che sono state messe mano a mano disponibili. Se volete scaricare da sorgenti ufficiali, l'ultimo aggiornamento (ad oggi, 1 Marzo 2024) risulta essere quello di Settembre 2023 (driver ID `rx8nt` sul [sito Dell](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=k8cr4
+) cartella, sono state collezionate nel tempo tutte le versioni che sono state messe a mano a mano disponibili. Se volete scaricare da sorgenti ufficiali, l'ultimo aggiornamento (ad oggi, 1 Marzo 2024) risulta essere quello di Settembre 2023, driver ID `rx8nt` sul [sito Dell](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=k8cr4
 )
 
 
