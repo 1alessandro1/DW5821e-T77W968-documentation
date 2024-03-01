@@ -63,7 +63,7 @@ Riferirsi alla cartella contenente i file `xqcn` corretti per effettuare quanto 
 - Per modelli vergine, eseguire `at^nv=2497,1,"01"` + `AT+RESET` per disabilitare QTUNER ed evitare che sia bloccato in CFUN 5
 
 <details>
-    <summary>Altri comandi (da copia-incollare su [luci-app-atcommands](https://github.com/4IceG/luci-app-atcommands))</summary>
+    <summary>Altri comandi da copia-incollare su [luci-app-atcommands](https://github.com/4IceG/luci-app-atcommands)</summary>
     
     Signal Quality ➜ AT+CSQ?;AT+CSQ?
     Debug Information/Cell Information ➜ AT^DEBUG?;AT^DEBUG?
