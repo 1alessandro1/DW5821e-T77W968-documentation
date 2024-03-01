@@ -59,8 +59,40 @@ Riferirsi alla cartella contenente i file `xqcn` corretti per effettuare quanto 
 - Controllo combo CA: `AT^CA_INFO?` (da un risultato diverso da solo "OK" se sta aggregando)
 - Cambio slot sim: `AT^SWITCH_SLOT?` (stato) - AT^SWITCH_SLOT=0 (slot 0) - AT^SWITCH_SLOT=1 (slot 1)
 - Verifica di tutti i comandi disponibili: `AT+CLAC`
-- Verificare IMEI
+- Verificare IMEI: `AT^GETIMEI`
 - Per modelli vergine, eseguire `at^nv=2497,1,"01"` + `AT+RESET` per disabilitare QTUNER ed evitare che sia bloccato in CFUN 5
+
+<details>
+    <summary>Altri comandi (da copia-incollare su [luci-app-atcommands](https://github.com/4IceG/luci-app-atcommands))</summary>
+    
+    Signal Quality ➜ AT+CSQ?;AT+CSQ?
+    Debug Information/Cell Information ➜ AT^DEBUG?;AT^DEBUG?
+    General System Firmware Information and IMEI ➜ ATI;ATI
+    Check Detailed Firmware Version ➜ AT^VERSION?;AT^VERSION?
+    Check Customer Mode ➜ AT^CUSTOMER?;AT^CUSTOMER?
+    Carrier Aggregation Info ➜ AT^CA_INFO?;AT^CA_INFO?
+    Check Enabled Bands ➜ AT^BAND_PREF_EXT?;AT^BAND_PREF_EXT?
+    
+    Check RAT Mode Preferences ➜ AT+COPS?;AT+COPS?
+    Set automatic RAT selection mode ➜ AT+COPS=0,0;AT+COPS=0,0
+    Set LTE only RAT ➜ AT+COPS=1,2,"22288",7;AT+COPS=1,2,"22288",7
+    Set LTE+5G RAT ➜ AT+COPS=1,2,"22288",13;AT+COPS=1,2,"22288",13
+    
+    Enable LTE B3 only ➜ AT^BAND_PREF_EXT=LTE,2,3;AT^BAND_PREF_EXT=LTE,2,3
+    Enable LTE Bands 1+3+7+20 ➜ AT^BAND_PREF_EXT=LTE,2,1:3:7:20;AT^BAND_PREF_EXT=LTE,2,1:3:7:20
+    Enable LTE Bands 1+3+7+38 ➜ AT^BAND_PREF_EXT=LTE,2,1:3:7:38;AT^BAND_PREF_EXT=LTE,2,1:3:7:38
+    Disable LTE Bands 20 and 28 ➜ AT^BAND_PREF_EXT=LTE,1,20:28
+    
+    Display Neighbour Cell RSRP Info ➜ AT+VZWRSRP?;AT+VZWRSRP?
+    Display Neighbour Cell RSRQ Info ➜ AT+VZWRSRQ?;AT+VZWRSRQ?
+    Check APN Configuration ➜ AT+CGDCONT?;AT+CGDCONT?
+    Check APN Configuration ➜ AT+VZWAPNE?;AT+VZWAPNE?
+    Check Modem Temperature ➜ AT^TEMP?;AT^TEMP?
+    
+    Restore Default Bands ➜ AT^BAND_PREF;AT^BAND_PREF
+    Reboot Modem ➜ AT+RESET;AT+RESET
+</details>
+
 
 
 # Cambiare IMEI
