@@ -63,8 +63,6 @@ Riferirsi alla cartella contenente i file `xqcn` corretti per effettuare quanto 
 - Per modelli vergine, eseguire `at^nv=2497,1,"01"` + `AT+RESET` per disabilitare QTUNER ed evitare che sia bloccato in CFUN 5
 
 
-
-
 # Cambiare IMEI
 
 - Primo metodo:
@@ -161,3 +159,15 @@ at^efs="/nv/item_files/modem/lte/rrc/csp/earfcn_lock",0
 ```
 
 Ovviamente se la bts decide di cambiarti o di spegnere una banda, il modulo si disconnette da internet
+
+
+
+# Recovery via EDL
+
+Per ora, riferirsi a [questo documento](https://www.mbhomeserver.it/s/Gk2zRwtw9FB6Y7m?path=%2FModem%20%5BMiniPCIE%20-%20M.2%20key%20B%20NGFF%5D%2FDell%2FDW5821e%20(MDM9660%2C%20Snapdragon%20X20)%2F4_Debrick-EDL-fastboot&openfile=21330) per recuperare il modulo qualora non spunti come vivo in alcun sistema operativo, assicurandosi di non flashare una versione più vecchia di quella attualmente presente. Se siete su una revision recente, come documentato in [questo](https://github.com/1alessandro1/DW5821e-T77W968-documentation/blob/main/Dell-Installers-Links.md) documento, usare [questa cartella](https://www.mbhomeserver.it/s/Gk2zRwtw9FB6Y7m?path=%2FModem%20%5BMiniPCIE%20-%20M.2%20key%20B%20NGFF%5D%2FDell%2FDW5821e%20(MDM9660%2C%20Snapdragon%20X20)%2F4_Debrick-EDL-fastboot&openfile=21330) con il programmer apposito e il file `contents.xml` da puntare in QPST nell'applicativo `Software download > SB 3.0`. Io in passato ho flashato una revision più vecchia (REV 035) impossibilitando ogni rientro in `9008` prolungato e vi dico che è stato molto spiacevole, perché l'unico modo per recuperare il modulo in questo stato in cui rimane in `9008` per meno di 10 secondi è flashare solo `aboot` (e `mibib`)
+
+![image](https://github.com/1alessandro1/DW5821e-T77W968-documentation/assets/46293832/e31b36ce-9092-4524-be03-8ee10f82a0ee)
+
+
+
+
