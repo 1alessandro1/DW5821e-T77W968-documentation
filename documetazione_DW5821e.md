@@ -21,21 +21,29 @@ I driver sul sito DELL vanno cercati sotto i laptop che montano questo modello, 
 
 Spesso capita che a seconda del modello del portatile che cercate la versione del firmware che appare sul sito varia dalle più vecchie (A03, A05) alle quasi nuove (A20) 
 
-L'ultimo aggiornamento (ad oggi, 1 Agosto 2023) risulta essere quello di settembre 2022 (driver ID `k8cr4` sul sito Dell)
-
-https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=k8cr4
-
-
+L'ultimo aggiornamento (ad oggi, 1 Marzo 2024) risulta essere quello di Settembre 2023 (driver ID `rx8nt` sul [sito Dell](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=k8cr4
+))
 
 Se non avete un SMBIOS Dell, l'installer controllerà se siete in regola e fallirà. Per aggirare questo controllo, è sufficiente cambiare tramite registry editor eseguito come amministratore sulla vostra macchina la chiave "SystemManufacturer" sotto il percorso:
 
+```
 
 [HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\BIOS]
 
+```
 
-Impostandola come "SystemManufacturer"="Dell Inc."
+Impostandola come `"SystemManufacturer"="Dell Inc."`
 
-Oppure per i pigri eseguire come amministratore questo file (dell.reg)
+<details>
+    <summary>oppure per i pigri:</summary>
+        Eseguire come amministratore questo file (salvandolo come dell.reg):
+
+        
+        Windows Registry Editor Version 5.00
+
+        [HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\BIOS]
+        "SystemManufacturer"="Dell Inc."  
+</details>
 
 
 # Come applicare le mod per le combo CA
