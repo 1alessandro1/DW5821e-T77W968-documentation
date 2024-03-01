@@ -9,15 +9,12 @@
 
 Riferirsi a [questo drive](https://www.mbhomeserver.it/s/Gk2zRwtw9FB6Y7m?path=%2FModem+%5BMiniPCIE+-+M.2+key+B+NGFF%5D%2FDell%2FDW5821e+%28MDM9660%2C+Snapdragon+X20%29) per avere tutte le versioni esistenti sul DW5821e 
 
-I driver sul sito DELL vanno cercati sotto i laptop che montano questo modello, ossia:
+# Effettuare l'installazione dei driver 
 
-- Latitude 5420 Rugged
-- Latitude 5424 Rugged
-- Latitude 7424 Rugged Extreme
-- Precision 7540
-- Precision 7740
+Prerequisito: portatile DELL, o **aver cambiato l'SMBIOS in registry editor** oppure **seguito il file** `dell.reg` (leggi sotto) 
 
-Spesso capita che a seconda del modello del portatile che cercate la versione del firmware che appare sul sito varia dalle più vecchie (A03, A05) alle quasi nuove (A20) 
+Per avere le porte seriali (DIAG+AT+GNSS) disponibili in Device manager, è necessario installare il driver ufficiale dal sito Dell. In [questa](https://www.mbhomeserver.it/s/Gk2zRwtw9FB6Y7m?path=%2FModem+%5BMiniPCIE+-+M.2+key+B+NGFF%5D%2FDell%2FDW5821e+%28MDM9660%2C+Snapdragon+X20%29%2F2_Dell+Installers+-+EXE%2FFirmware
+) cartella, sono state collezionate nel tempo tutte le versioni che sono state messe mano a mano disponibili.
 
 L'ultimo aggiornamento (ad oggi, 1 Marzo 2024) risulta essere quello di Settembre 2023 (driver ID `rx8nt` sul [sito Dell](https://www.dell.com/support/home/it-it/drivers/driversdetails?driverid=k8cr4
 ))
