@@ -75,13 +75,14 @@ Riferirsi alla cartella contenente i file `xqcn` corretti per effettuare quanto 
     Check Enabled Bands ➜ AT^BAND_PREF_EXT?;AT^BAND_PREF_EXT?
     
     Check RAT Mode Preferences ➜ AT+COPS?;AT+COPS?
-    Set automatic RAT selection mode ➜ AT+COPS=0,0;AT+COPS=0,0
-    Set 3G only RAT (non permanent across reboots) ➜ AT^SLMODE=0,1;AT^SLMODE=0,1
-    Set 3G only RAT (permanent across reboots) ➜ AT^SLMODE=1,1;AT^SLMODE=1,1
-    Set 4G only RAT (non permanent across reboots) ➜ AT^SLMODE=0,2;AT^SLMODE=0,2
-    Set 4G only RAT (permanent across reboots) ➜ AT^SLMODE=1,2;AT^SLMODE=1,2
-    Set LTE only RAT ➜ AT+COPS=1,2,"22288",7;AT+COPS=1,2,"22288",7
-    Revert preference mode to auto ➜ AT^SLMODE=1,0;AT^SLMODE=1,0
+    Check SLMODE set ➜ AT^SLMODE?;AT^SLMODE?
+    Set WCDMA only RAT (non permanent across reboots) ➜ AT^SLMODE=0,14;AT^SLMODE=0,14
+    Set LTE only RAT (non permanent across reboots) ➜ AT^SLMODE=0,30;AT^SLMODE=0,30
+    Set WCDMA only RAT (permanent across reboots) ➜ AT^SLMODE=1,14;AT^SLMODE=1,14
+    Set LTE only RAT (permanent across reboots) ➜ AT^SLMODE=1,30;AT^SLMODE=1,30
+    Set WCDMA And LTE Only ➜ AT^SLMODE=1,35;AT^SLMODE=1,35
+    Revert preference mode to auto ➜ AT^SLMODE=1,4;AT^SLMODE=1,4
+    
     
     Enable LTE B3 only ➜ AT^BAND_PREF_EXT=LTE,2,3;AT^BAND_PREF_EXT=LTE,2,3
     Enable LTE Bands 1+3+7+20 ➜ AT^BAND_PREF_EXT=LTE,2,1:3:7:20;AT^BAND_PREF_EXT=LTE,2,1:3:7:20
