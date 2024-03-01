@@ -2,14 +2,12 @@
 
 (Ancora molto bozza)
 
-
-Disclaimer: queste informazioni sono frutto del lavoro di diverse persone raccolte da varie fonti online, forum come 4pda.to, pazienza e tenacia nello sbatterci la testa sopra. 
+**DISCLAIMER: queste informazioni sono frutto del lavoro di diverse persone raccolte da varie fonti online, forum come 4pda.to, pazienza e tenacia nello sbatterci la testa sopra.**
 
 
 # Come fare l'aggiornamento del firmware
 
-
-Riferirsi a questo drive per avere tutte le versioni esistenti sul DW5821e:
+Riferirsi a [questo drive](https://www.mbhomeserver.it/s/Gk2zRwtw9FB6Y7m?path=%2FModem+%5BMiniPCIE+-+M.2+key+B+NGFF%5D%2FDell%2FDW5821e+%28MDM9660%2C+Snapdragon+X20%29) per avere tutte le versioni esistenti sul DW5821e 
 
 I driver sul sito DELL vanno cercati sotto i laptop che montano questo modello, ossia:
 
@@ -48,15 +46,16 @@ Impostandola come `"SystemManufacturer"="Dell Inc."`
 
 # Come applicare le mod per le combo CA
 
+Aprire QPST, dirigersi nel percorso `/nv/item_files/rfnv` e sostituire il file `00028874` con quello che trovate [qui]([https://github.com/1alessandro1/DW5821e-T77W968-documentation/releases](https://github.com/1alessandro1/Combo-00028874-DW5821e/releases/download/v3/00028874_v3_Zefiro_4ca_28) avendo cura di rinominarlo in `00028874` preventivamente all'operazione. Basta effettuare un tasto destro sul file originale, selezionare `Copy data file FROM PC` e puntare al file appena scaricato, così facendo verrà sovrascritto.
 
-Partendo da modem appena acquistato 
-
-- Variante ESIM
-- Variante non ESIM
-
+Rimuovere inoltre il file al percorso `/policyman/carrier_policy.xml`
 
 # Come trasformare la variante ESIM nella variante non ESIM
 
+- Variante ESIM: tramite un xqcn di un modulo non ESIM, è possibile farlo tornare in modalità SIM fisica
+- Variante non ESIM: tramite il restore dell'xqcn della variante ESIM, è possibile farlo tornare in modalità ESIM.
+
+Riferirsi alla cartella contenente i file `xqcn` corretti per effettuare quanto vi serve.
 
 # Comandi AT utili
 
