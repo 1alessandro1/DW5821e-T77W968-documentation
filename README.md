@@ -89,7 +89,7 @@ Riferirsi alla cartella contenente i file `xqcn` corretti per effettuare quanto 
     Check APN Configuration ➜ AT+VZWAPNE?;AT+VZWAPNE?
     Check Modem Temperature ➜ AT^TEMP?;AT^TEMP?
     
-    Restore Default Bands ➜ AT^BAND_PREF;AT^BAND_PREF
+    Restore Default Bands ➜ AT^BAND_PREF_EXT;AT^BAND_PREF_EXT
     Reboot Modem ➜ AT+RESET;AT+RESET
 </details>
 
