@@ -65,7 +65,7 @@ Riferirsi alla cartella contenente i file `xqcn` corretti per effettuare quanto 
 
 # Cambiare IMEI
 
-- Primo metodo:
+## Primo metodo:
   - Verificare tramite il comando: `AT^GETIMEI` il valore attuale dell'IMEI
   - Trovare l'IMEI valido che si vuole sostituire. In questo esempio, partiremo da un IMEI di un Google Pixel 4 XL, che ha come IMEI: `359220100402289`
   - Convertire l'imei sovrastante in formato GSM:
@@ -77,13 +77,15 @@ Riferirsi alla cartella contenente i file `xqcn` corretti per effettuare quanto 
     - Riscrivere il nuovo IMEI: `AT^NV=550,9,"08,3A,95,22,10,00,04,22,98"`
    
 
-- Secondo metodo (universale):
+## Secondo metodo (universale):
   Avendo il backup `.xqcn` ottenuto tramite Qualcomm `QPST`, è possibile modificare l'imei partendo dall'originale presente in etichetta e andandolo a cercare con un CTRL + F dentro i contenuti dell'XML, assicurandosi prima di aver convertito la stringa di ricerca in formato GSM come suddetto.
 
 
 # Effettuare il Cell Lock 
 
-## Conversione: 
+In sostanza con il primo scrivi un file di 4 byte in `/nv/item_files/modem/lte/rrc/csp/pci_lock` nel secondo scrivi un file di 2 byte in `/nv/item_files/modem/lte/rrc/csp/earfcn_lock`.
+
+## In termini operativi 
   
   1. Data la coppia EARFCN e PCI: (B7 wind: (`3350`)DEC - PCI specifico (`408`)DEC:
   
@@ -143,8 +145,6 @@ Riferirsi alla cartella contenente i file `xqcn` corretti per effettuare quanto 
 
           ^EFS: /nv/item_files/modem/lte/rrc/csp/pci_lock, 06,72
 
-
-In sostanza con il primo scrivi un file di 4 byte in `/nv/item_files/modem/lte/rrc/csp/pci_lock` nel secondo scrivi un file di 2 byte in `/nv/item_files/modem/lte/rrc/csp/earfcn_lock`.
 
 ## Rimozione del cell lock (EARFCN+PCI)
 
