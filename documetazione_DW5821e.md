@@ -46,7 +46,7 @@ Impostandola come `"SystemManufacturer"="Dell Inc."`
 
 # Come applicare le mod per le combo CA
 
-Aprire QPST, dirigersi nel percorso `/nv/item_files/rfnv` e sostituire il file `00028874` con quello che trovate [qui](https://github.com/1alessandro1/Combo-00028874-DW5821e/releases/download/v3/00028874_v3_Zefiro_4ca_28) avendo cura di rinominarlo in `00028874` preventivamente all'operazione. Basta effettuare un tasto destro sul file originale, selezionare `Copy data file FROM PC` e puntare al file appena scaricato, così facendo verrà sovrascritto.
+Aprire [QPST](https://www.mbhomeserver.it/s/Gk2zRwtw9FB6Y7m/download?path=%2FTools%20Qualcomm&files=QPST_2.7.496.zip), dirigersi nel percorso `/nv/item_files/rfnv` e sostituire il file `00028874` con quello che trovate [qui](https://github.com/1alessandro1/Combo-00028874-DW5821e/releases/download/v3/00028874_v3_Zefiro_4ca_28) avendo cura di rinominarlo in `00028874` preventivamente all'operazione. Basta effettuare un tasto destro sul file originale, selezionare `Copy data file FROM PC` e puntare al file appena scaricato, così facendo verrà sovrascritto.
 
 Rimuovere inoltre il file al percorso `/policyman/carrier_policy.xml`
 
