@@ -76,7 +76,6 @@ Riferirsi alla cartella contenente i file `xqcn` corretti per effettuare quanto 
     Check RAT Mode Preferences ➜ AT+COPS?;AT+COPS?
     Set automatic RAT selection mode ➜ AT+COPS=0,0;AT+COPS=0,0
     Set LTE only RAT ➜ AT+COPS=1,2,"22288",7;AT+COPS=1,2,"22288",7
-    Set LTE+5G RAT ➜ AT+COPS=1,2,"22288",13;AT+COPS=1,2,"22288",13
     
     Enable LTE B3 only ➜ AT^BAND_PREF_EXT=LTE,2,3;AT^BAND_PREF_EXT=LTE,2,3
     Enable LTE Bands 1+3+7+20 ➜ AT^BAND_PREF_EXT=LTE,2,1:3:7:20;AT^BAND_PREF_EXT=LTE,2,1:3:7:20
