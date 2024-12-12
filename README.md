@@ -57,7 +57,6 @@ Riferirsi alla cartella contenente i file `xqcn` corretti per effettuare quanto 
 - Impostare l'APN: `AT+CGDCONT=1,"IPV4V6","wap.tim.it"`
 - Controllo APN: `AT+CGDCONT?` (in lista troverete il vostro APN se l'avete impostato)
 - Controllo combo CA: `AT^CA_INFO?` (da un risultato diverso da solo "OK" se sta aggregando)
-- Cambio slot sim: `AT^SWITCH_SLOT?` (stato) - AT^SWITCH_SLOT=0 (slot 0) - AT^SWITCH_SLOT=1 (slot 1)
 - Verifica di tutti i comandi disponibili: `AT+CLAC`
 - Verificare IMEI: `AT^GETIMEI`
 - Per modelli vergine, eseguire `at^nv=2497,1,"01"` + `AT+RESET` per disabilitare QTUNER ed evitare che sia bloccato in CFUN 5
