@@ -47,8 +47,10 @@ Rimuovere inoltre il file al percorso `/policyman/carrier_policy.xml`
 # Come trasformare la variante ESIM nella variante non ESIM
 
 - Variante ESIM:
-      - 1° modo: mandarlo in fastboot con `AT^FASTBOOT` oppure se avete già attivato ADB, `adb reboot-bootloader` e `fastboot erase efs2` vi restorerà i contenuti della EFS presenti in `foxnv` che conterrà la EFS di un Non-ESIM 
-      - 2° modo: effettuare il restore di un backup xqcn di un modulo non ESIM (lo trovate in questo repository)
+
+   1° modo: mandarlo in fastboot con `AT^FASTBOOT` oppure se avete già attivato ADB, `adb reboot-bootloader` e `fastboot erase efs2` vi restorerà i contenuti della EFS presenti in `foxnv` che conterrà la EFS di un Non-ESIM 
+
+  2° modo: effettuare il restore di un backup xqcn di un modulo non ESIM (lo trovate in questo repository)
   
 - Variante non ESIM: tramite il restore dell'xqcn della variante ESIM, (presente in questo repository) è possibile farlo tornare in modalità ESIM.
 
