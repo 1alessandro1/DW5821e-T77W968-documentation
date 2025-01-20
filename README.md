@@ -1,9 +1,8 @@
 # Documentazione DW5821e - T77W968
 
-(Ancora molto bozza)
-
 **DISCLAIMER: queste informazioni sono frutto del lavoro di diverse persone raccolte da varie fonti online, forum come 4pda.to, pazienza e tenacia nello sbatterci la testa sopra.**
 
+![image](images/PXL_20230626_181144916.jpg)
 
 # Come fare l'aggiornamento del firmware
 
